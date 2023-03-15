@@ -1,0 +1,5 @@
+3,dc30.utdallas.edu,60000
+4,dc30.utdallas.edu,60001
+5,dc30.utdallas.edu,60002
+6,dc30.utdallas.edu,60003
+7,dc30.utdallas.edu,60004
